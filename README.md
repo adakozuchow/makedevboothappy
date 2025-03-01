@@ -1,1 +1,3 @@
 # makedevboothappy
+##
+Contributing
